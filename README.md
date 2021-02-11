@@ -1,4 +1,4 @@
-# Merutan.github.io
+# Meru7.github.io
 自分のホームページをGithub Pagesで。  
 Make home page Github Pages.
 
